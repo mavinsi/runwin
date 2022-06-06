@@ -1,5 +1,8 @@
+<img src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg">
 <div id="header" align="center">
-Bashscript that makes it possible to launch WSL files directly on windows in a more practical way
+
+<br>
+  Bashscript that makes it possible to launch WSL files directly on windows in a more practical way
 </div>
 
 ## 💭 Installing
