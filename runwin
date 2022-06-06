@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Running on windows: $*"
+echo "runwin: $*"
 explorer.exe `wslpath -aw $*`
+exit 1
