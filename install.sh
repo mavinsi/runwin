@@ -6,5 +6,5 @@ echo "# runwin version $version"
 echo ""
 echo "- Installing..."
 echo "- Copying runwin to /bin/ folder"
-sudo cp runwin /bin/runwin
+sudo cp runwin /usr/local/bin/runwin
 echo "- runwin $version was sucessfully installed!"
