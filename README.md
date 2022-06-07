@@ -11,5 +11,6 @@
 3. now run the install script ``sudo ./install.sh``
 
 ## 🏃 Execute & Using
-1. now just type ``runwin filename.extension``
-2. now if you followed all the steps correctly the file will be successfully executed on your windows 
+now just type ``runwin filename.extension``
+
+if you followed all the steps correctly the file will be successfully executed on your windows 
